@@ -1,0 +1,19 @@
+{
+  "name": "mu-coop-lutimlu-modernjs",
+  "version": "1.0.0",
+  "description": "mu coop modernjs code along",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Tim Lu",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "node-fetch": "^3.2.10"
+  }
+}
